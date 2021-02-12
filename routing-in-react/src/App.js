@@ -7,7 +7,7 @@ import Welcome from './Components/welcome/Welcome';
 import Clock from './Components/clock/Clock';
 import Contact from './Components/contact/Contact';
 import Navigation from './Components/navigation/Navigation';
-
+import NotFound from './Components/notFound/NotFound';
 function App() {
   return (
     <div className="App">
